@@ -4,6 +4,6 @@ This is the Chatbot I created while studying for AP Calculus BC exam. It is used
 
 -I used the model `gemeni-1.5-flash` for this Chatbot.
 
--The classified images are stored in the file `example_data`.
+-The classified images are stored in the file `data`.
 
 -Replace the sample API key in `example_API` with your own API key from `https://aistudio.google.com/u/1/prompts/new_chat`.
